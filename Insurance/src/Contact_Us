@@ -1,0 +1,17 @@
+import React from 'react';
+
+export const Contact_Us = () => (
+  <div>
+    <h2>Reach Out To Us At :</h2>
+    <br></br>
+    <p>☎️   09-6555 4934</p>
+    <br></br>
+    <p>📧    lotusinsurance.admin@gmail.com</p>
+    <br></br>
+    <p>📍    Level 13 WISMA Teguh Jalan Kuchai Lama Kuala Lumpur Malaysia</p>
+    <br></br>
+
+
+
+    </div>
+)
